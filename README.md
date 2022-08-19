@@ -2,7 +2,7 @@
 
 ## Deployment
 
-This clone is hosted on Heroku. You can check it out using this [link](https://zoom-clone-5fdcf.herokuapp.com/)
+Joyn is hosted on Heroku. You can check it out using this [link]()
 
 ## Tech Stack
 
